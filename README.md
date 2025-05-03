@@ -1,38 +1,46 @@
-## Oiii! Eu sou Ruben Fábio
+# 👨‍💻 Ruben Fábio Gutierrez
+
+Desenvolvedor Full Stack com +3 anos de experiência em tecnologias modernas, entregando soluções robustas, escaláveis e centradas em performance. Especialista em React, Next.js, Flutter e desenvolvimento mobile cross-platform.
+
+- 🔭 Atualmente trabalhando na [DMX Design](https://dmxweb.com.br) como Full Stack Developer.
+- 🌱 Estudando Engenharia de Software, UX Avançado e Clean Architecture.
+- 📈 Foco em performance, SEO, UX e acessibilidade.
+- 📬 Contato: ruben.fabio2016@gmail.com | [LinkedIn](https://www.linkedin.com/in/ruben-fabio)
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rubenfabio">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rubenfabio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenfabio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenfabio&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruben-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruben-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" alt="Ruben-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Ruben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruben-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruben-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ruben-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Ruben-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="center" alt="Ruben-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ruben-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Ruben-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ruben-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
-  
- ##
-  
- <div> 
-  <a href="https://www.instagram.com/rubenfabio.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ruben.fabio2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruben-fabio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rubenfabio/count.svg" />
+
+---
+
+## 📱 Redes e Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-fabio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.fabio2016@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubenfabio.dev/)
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rubenfabio/count.svg" alt="Visitor Count" />
 </p>
-<!---
-rubenfabio/rubenfabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

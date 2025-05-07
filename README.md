@@ -28,19 +28,6 @@ Full Stack Developer with 3+ years of experience in modern technologies, deliver
 
 ---
 
-## 🇪🇸 Sobre Mí
-
-Desarrollador Full Stack con más de 3 años de experiencia en tecnologías modernas, creando soluciones robustas, escalables y centradas en el rendimiento. Especializado en React, Next.js, Flutter y desarrollo móvil multiplataforma.
-
-- 🔭 Actualmente en [DMX Design](https://dmxweb.com.br) como Full Stack Developer  
-- 🌱 Estudiando Ingeniería de Software, UX Avanzado, Arquitectura Limpia y pruebas automatizadas  
-- 🧪 Pruebas con: Vitest, Testing Library, react-hook-form, zod, MSW, Playwright y cobertura en CI  
-- 🧠 Principios aplicados: Clean Code, SOLID, Arquitectura Limpia, DRY, KISS, funciones pequeñas y claras  
-- 📚 Libros leídos: Código Limpio, Domain-Driven Design, Vlad Khononov (DDD Estratégico), Arquitectura Limpia (en curso)  
-- 📬 Contacto: ruben.fabio2016@gmail.com | [LinkedIn](https://www.linkedin.com/in/ruben-fabio)
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px">
@@ -85,9 +72,3 @@ Estou aberto a oportunidades que envolvam desenvolvimento web ou mobile, especia
 I’m driven by challenges that require clean, scalable solutions delivering real user value. Throughout my journey as a developer, I've applied solid software engineering principles, combined with modern testing and architecture practices. I’m looking to join teams that value technical excellence, autonomy, and continuous delivery.
 
 I’m open to opportunities in web or mobile development, especially in environments that prioritize best practices, performance, and innovation. I learn quickly, adapt well to new technologies, and collaborate effectively across diverse teams, always focused on delivery quality.
-
-### 🇪🇸 Español
-
-Me motivan los desafíos que requieren soluciones limpias, escalables y que aporten verdadero valor al usuario. A lo largo de mi carrera como desarrollador, he aplicado principios sólidos de ingeniería de software, junto con prácticas modernas de pruebas y arquitectura. Busco colaborar con equipos que valoren la excelencia técnica, la autonomía y la entrega continua.
-
-Estoy abierto a oportunidades en desarrollo web o móvil, especialmente en entornos que prioricen buenas prácticas, rendimiento e innovación. Aprendo rápido, me adapto bien a nuevas tecnologías y colaboro con equipos diversos, siempre enfocado en la calidad de la entrega.
